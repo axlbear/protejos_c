@@ -1,2 +1,2 @@
 # protejos_c
-A few C Projets for trainning.
+A few C Projects for trainning.
